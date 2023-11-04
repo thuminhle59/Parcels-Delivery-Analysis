@@ -1,5 +1,7 @@
 # Parcels-Delivery-Analysis
 
+*Note: Github cannot render plotly charts. To see the plots in the jypytern notebook, download and open the file on your local computer.*
+
 ## Dataset
 This project contains 2 datasets:
 - parcel_table: information about parcels such as pickup_date, final_delivery_date, origin_country, carrier_name, etc..
