@@ -1,6 +1,6 @@
 # Parcels-Delivery-Analysis
 
-*Note: Github cannot render plotly charts. To see the plots in the jypytern notebook, download and open the file on your local computer.*
+*Note: Github cannot render plotly charts. To see the plots in the jypyter notebook file "analysis.ipynb", download and open the file on your local computer.*
 
 ## Dataset
 This project contains 2 datasets:
