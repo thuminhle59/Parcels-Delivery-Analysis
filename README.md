@@ -42,13 +42,13 @@ Final table:
 Some examples of my analysis:
 
 i. EDD frequency
-<img src="https://github.com/thuminhle59/Parcels-Delivery-Analysis/blob/main/Images/EDD-freq.png?raw=true" width="1000"/>
+<img src="https://github.com/thuminhle59/Parcels-Delivery-Analysis/blob/main/Images/EDD-freq.png?raw=true" width="800"/>
 - Among 80.67% (2,576) parcels having only 1 unique EDD, there are 994 (31.01%) parcels have accurate EDDs.
 
 - Only 19.63% (629) parcels have more than 1 unique EDD, and 6.74% (216) of which have accurate EDDs.
 
 ii. Delivery duration
-<img src="https://github.com/thuminhle59/Parcels-Delivery-Analysis/blob/main/Images/Delivery-duration.png?raw=true" width="1000"/>
+<img src="https://github.com/thuminhle59/Parcels-Delivery-Analysis/blob/main/Images/Delivery-duration.png?raw=true" width="800"/>
 
 - Longer delivery duration has higher edd accuracy per parcel and vice versa.
 
@@ -57,7 +57,7 @@ ii. Delivery duration
 - Whereas duration 0 - 2.27 hrs has the lowest accuracy percentage (26.93 %).
 
 iii. Delivery time
-<img src="https://github.com/thuminhle59/Parcels-Delivery-Analysis/blob/main/Images/Delivery-time.png?raw=true" width="1000"/>
+<img src="https://github.com/thuminhle59/Parcels-Delivery-Analysis/blob/main/Images/Delivery-time.png?raw=true" width="800"/>
 
 - 75% total parcels (2,382 parcels) were delivered during midnight hours from 0am to 6am, and 41.39% of them (986 parcels) have accurate EDDs.
 
