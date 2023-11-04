@@ -7,6 +7,8 @@ This project contains 2 datasets:
 - parcel_table: information about parcels such as pickup_date, final_delivery_date, origin_country, carrier_name, etc..
 - log_table: detailed logs of delivery date prediction
 
+The purpose of this project is to analyze the accuracy of the Expected delivery date of parcels and find out about characteristics of accurate vs inaccurate EDDs.
+
 ## Outline
 1. Import & Setup
 2. Questions to analyze
