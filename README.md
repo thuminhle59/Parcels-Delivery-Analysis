@@ -37,14 +37,15 @@ Final table:
 - remove abnormal EDDs/parcels
 
 ### 3. Explorative Data Analysis
-Some examples of my pre-processing and EDA steps:
+Some examples of my analysis:
 
-![Abnormal-Reason](https://github.com/thuminhle59/Parcels-Delivery-Analysis/blob/main/Images/abnormal-reasons.png)
+i. EDD frequency
+![EDD-frequency](https://github.com/thuminhle59/Parcels-Delivery-Analysis/blob/main/Images/EDD-freq.png)
+- Among 80.67% (2,576) parcels having only 1 unique EDD, there are 994 (31.01%) parcels have accurate EDDs.
 
-- There are 503 abnormal EDDs accounting for 7.61 % of total edds in the final dataset.
+- Only 19.63% (629) parcels have more than 1 unique EDD, and 6.74% (216) of which have accurate EDDs.
 
-- The abnormal edds will be removed from the analysis.
-
+ii. Delivery duration
 ![Delivery-duration](https://github.com/thuminhle59/Parcels-Delivery-Analysis/blob/main/Images/Delivery-duration.png)
 
 - Longer delivery duration has higher edd accuracy per parcel and vice versa.
@@ -53,6 +54,13 @@ Some examples of my pre-processing and EDA steps:
 
 - Whereas duration 0 - 2.27 hrs has the lowest accuracy percentage (26.93 %).
 
+iii. Delivery time
+![Delivery-time](https://github.com/thuminhle59/Parcels-Delivery-Analysis/blob/main/Images/Delivery-time.png)
+
+- 75% total parcels (2,382 parcels) were delivered during midnight hours from 0am to 6am, and 41.39% of them (986 parcels) have accurate EDDs.
+
+- Only 25% total parcels (823 parcels) were delivered during daytime from 6am to 0am, and only 27.22% of them (224 parcels) have accurate EDDs
+  
 ### 4. Conclusion
 
 **1. CARRIERS' VOLUME AND EDD ACCURACY**
