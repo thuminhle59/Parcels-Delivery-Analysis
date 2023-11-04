@@ -1,6 +1,9 @@
 # Parcels-Delivery-Analysis
 
 ## Dataset
+This project contains 2 datasets:
+- parcel_table: information about parcels such as pickup_date, final_delivery_date, origin_country, carrier_name, etc..
+- log_table: detailed logs of delivery date prediction
 
 ## Outline
 1. Import & Setup
@@ -36,13 +39,13 @@ Final table:
 ### 3. Explorative Data Analysis
 Some examples of my pre-processing and EDA steps:
 
-![Abnormal-Reason]()
+![Abnormal-Reason](https://github.com/thuminhle59/Parcels-Delivery-Analysis/blob/main/Images/abnormal-reasons.png)
 
 - There are 503 abnormal EDDs accounting for 7.61 % of total edds in the final dataset.
 
 - The abnormal edds will be removed from the analysis.
 
-![Delivery-duration]()
+![Delivery-duration](https://github.com/thuminhle59/Parcels-Delivery-Analysis/blob/main/Images/Delivery-duration.png)
 
 - Longer delivery duration has higher edd accuracy per parcel and vice versa.
 
@@ -50,7 +53,7 @@ Some examples of my pre-processing and EDA steps:
 
 - Whereas duration 0 - 2.27 hrs has the lowest accuracy percentage (26.93 %).
 
-## Conclusion
+### 4. Conclusion
 
 **1. CARRIERS' VOLUME AND EDD ACCURACY**
 
